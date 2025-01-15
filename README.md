@@ -5,6 +5,7 @@ A Cyber Security Enthusiast ||  A current undergraduate student pursuing a degre
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nilnaah._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niranjanavp) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/niranjana_vp) 
+<br><br>
 <strong><a href="https://tryhackme.com/r/p/niranjana">TryHackMe</a></strong>
 
 # 💻 Tech Stack:
