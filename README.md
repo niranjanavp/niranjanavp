@@ -1,5 +1,5 @@
-## Hi there 👋
-# 💫 About Me:
+# Hi there 👋
+## 💫 About Me:
 A Cyber Security Enthusiast ||  A current undergraduate student pursuing a degree in Computer Science Engineering || 
 
 
